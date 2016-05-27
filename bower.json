@@ -9,9 +9,7 @@
   "homepage": "",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "!readme.md",
+    "node_modules"
   ]
 }
