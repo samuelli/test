@@ -8,7 +8,7 @@
   "license": "MIT",
   "homepage": "",
   "ignore": [
-    "**/.*",
+    "**.*",
     "!readme.md",
     "node_modules"
   ]
